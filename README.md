@@ -19,7 +19,7 @@ Add VercelAPI to your `Package.swift`:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/yourusername/VercelAPI.git", from: "1.0.0")
+    .package(url: "https://github.com/wangqiyangX/VercelAPI.git", from: "0.1.0")
 ]
 ```
 
@@ -292,4 +292,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 - [Vercel REST API Documentation](https://vercel.com/docs/rest-api)
 - [Swift API Design Guidelines](https://www.swift.org/documentation/api-design-guidelines/)
-- [Issue Tracker](https://github.com/yourusername/VercelAPI/issues)
+- [Issue Tracker](https://github.com/wangqiyangX/VercelAPI/issues)
